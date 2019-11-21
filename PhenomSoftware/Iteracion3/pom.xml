@@ -22,5 +22,12 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
+
+    <dependency>
+      <groupId>C06</groupId>
+      <artifactId>Iteracion2</artifactId>
+      <version>0.0.1-SNAPSHOT</version>
+      <scope>Compile</scope>
+    </dependency>
   </dependencies>
 </project>
